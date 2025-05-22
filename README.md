@@ -47,7 +47,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <!--Kubernetes-->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-  <br/>
+  <!--EC2-->
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/>
+  
   
   ## Github Stats
   ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1)
