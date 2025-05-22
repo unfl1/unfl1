@@ -3,13 +3,12 @@
   
   ## About Me
 
-  <br/>
+
   ##  Project
 
 
 
 
-  <br/>
   ## Tech Stack
   ### Language
   <!--Python-->
