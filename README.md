@@ -12,6 +12,9 @@
 
   ### 개인 프로젝트
   - 2024.03 ~ 2024.06: 나만의 도서관 — 도서대여 중개 플랫폼 (FrontEnd + BackEnd)
+
+  ### Activities and Awards
+  🏆 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 팀프로젝트 최우수상(1등) 수상
  
   ### Language
   <!--Python-->
@@ -59,7 +62,6 @@
   ## Github Stats
   ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1)
 
-  # Activities and Awards
-  🏆 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 팀프로젝트 최우수상(1등) 수상
+  
 
 </div>
