@@ -7,11 +7,11 @@
   ## Project
 
   ### 팀 프로젝트
-  - 다잡아 — AI 채용공고 매칭 서비스 (FrontEnd) 2023.09 ~ 2023.12 
-  - 지키 — 벌금 약속 앱 (BackEnd + Team Leader) 2024.03 ~ 2024.11 
+  - 2023.09 ~ 2023.12 다잡아 — AI 채용공고 매칭 서비스 (FrontEnd)  
+  - 2024.03 ~ 2024.11 지키 — 벌금 약속 앱 (BackEnd + Team Leader)  
 
   ### 개인 프로젝트
-  - 나만의 도서관 — 도서대여 중개 플랫폼 (FrontEnd + BackEnd) 2024.03 ~ 2024.06
+  - 2024.03 ~ 2024.06 나만의 도서관 — 도서대여 중개 플랫폼 (FrontEnd + BackEnd) 
 
   ### Activities and Awards
   🏆 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 팀프로젝트 최우수상(1등) 수상
