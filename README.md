@@ -56,12 +56,13 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   <!--EC2-->
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/>
-  
+
+  ## Baekjoon
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flxmaut10)](https://solved.ac/flxmaut10/)
   
   ## Github Stats
   ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1)
 
-  ## Baekjoon
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flxmaut10)](https://solved.ac/flxmaut10/)
+  
   
 </div>
