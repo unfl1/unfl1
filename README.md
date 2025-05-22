@@ -53,15 +53,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=unfl1" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1" />
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=unfl1" height="150"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1" height="150"/>
+  </p>
   
 </div>
