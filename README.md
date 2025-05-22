@@ -60,7 +60,10 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flxmaut10)](https://solved.ac/flxmaut10/)
   
   ## Github Stats
-  ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1&layout=compact)
+  <p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=unfl1" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1&layout=compact" />
+  </p>
 
   
 
