@@ -53,9 +53,6 @@
   <br/>
   
   ## 🤔 Github Stats
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=unfl1" height="150"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1" height="150"/>
-  </p>
+  ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1)
   
 </div>
