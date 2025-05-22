@@ -2,7 +2,7 @@
   <!--Body-->
   
   ## About Me
-
+  
 
   ## Project
 
@@ -59,6 +59,7 @@
   ## Github Stats
   ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1)
 
-  
-  
+  # Activities and Awards
+  🏆 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 팀프로젝트 최우수상(1등) 수상
+
 </div>
