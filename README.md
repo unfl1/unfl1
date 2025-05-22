@@ -4,7 +4,7 @@
   ## About Me
   
 
-  ## Project
+  ### Project
 
   ### 팀 프로젝트
   - 2023.09 ~ 2023.12 다잡아 — AI 채용공고 매칭 서비스 (FrontEnd)  
