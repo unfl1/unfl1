@@ -1,20 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=capsule%20render&fontSize=50)
-
-  
-
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## About Me
 
-
+  <br/>
   ##  Project
 
 
 
 
-  
-  ## 🧱 Tech Stack
+  <br/>
+  ## Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -28,7 +24,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <!--TailwindCss-->
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
-  <br/>
+  
   
   ### BackEnd
   <!--SpringBoot-->
@@ -37,7 +33,7 @@
   <img src="https://img.shields.io/badge/SpringJPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
   <!--SpringSecurity-->
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/>
-  
+  <br/>
   
   ### ETC
   <!--MySQL-->
@@ -52,7 +48,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   <br/>
   
-  ## 🤔 Github Stats
+  ## Github Stats
   ![Stats](https://github-readme-stats.vercel.app/api?username=unfl1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1)
   
 </div>
