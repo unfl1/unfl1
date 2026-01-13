@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <!--SpringJPA-->
   <img src="https://img.shields.io/badge/SpringJPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
-  <!--SpringSecurity-->
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/>
   <br/>
   
   ### ETC
