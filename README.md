@@ -12,7 +12,7 @@
 
   ### 개인 프로젝트
   - 2024.03 ~ 2024.06 나만의 도서관 - 도서대여 중개 플랫폼
-  - 2025.05 ~ 2025.xx 리뷰 - 다양한 리뷰 플랫폼
+  - 2026.01 ~ 2026.xx 
 
   ### Activities and Awards
   🏆 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 팀프로젝트 최우수상(1등) 수상
@@ -60,11 +60,7 @@
   ## Baekjoon
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flxmaut10)](https://solved.ac/flxmaut10/)
   
-  ## Github Stats
-  <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=unfl1" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfl1&layout=compact" />
-  </p>
+
 
   
 
