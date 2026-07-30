@@ -15,7 +15,7 @@
   - 2026.01 ~ 2026.xx 
 
   ### Activities and Awards
-  🏆 단국대학교/TmaxTibero/CCCR Tmax AI Bigdata Academy 4기 팀프로젝트 최우수상(1등) 수상
+  🏆 단국대학교/TmaxTibero/CCCR 팀프로젝트 최우수상
  
   ### Language
   <!--Python-->
