@@ -1,8 +1,6 @@
 <div align="center">
 
-# Backend Developer
-
-Java · Spring Boot · JPA
+# 강현준
 
 </div>
 
