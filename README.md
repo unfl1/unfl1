@@ -1,9 +1,3 @@
-<div align="center">
-
-# 강현준
-
-</div>
-
 <br/>
 
 ## 🚀 Projects
