@@ -37,6 +37,6 @@
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/>
 
 
-## 🧩 Algorithm
+## Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flxmaut10)](https://solved.ac/flxmaut10/)
