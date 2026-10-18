@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/>
 
-<br/>
 
 ## 🧩 Algorithm
 
