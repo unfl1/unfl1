@@ -12,13 +12,11 @@
 - **내돈** — 내 투자 현황 보기  
   `2026.07 ~`
 
-<br/>
 
 ## Activities & Awards
 
 - **단국대학교 · TmaxTibero · CCCR 팀 프로젝트 최우수상**
 
-<br/>
 
 ## Tech Stack
 
