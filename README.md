@@ -1,6 +1,6 @@
 <br/>
 
-## 🚀 Projects
+## Projects
 
 - **다잡아** — AI 채용공고 매칭 서비스  
   `2023.09 ~ 2023.12` · FrontEnd
@@ -16,13 +16,13 @@
 
 <br/>
 
-## 🏆 Activities & Awards
+## Activities & Awards
 
 - **단국대학교 · TmaxTibero · CCCR 팀 프로젝트 최우수상**
 
 <br/>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
