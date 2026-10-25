@@ -1,19 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="88" viewBox="0 0 400 88" role="img" aria-label="포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중">
-  <title>포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중</title>
-  <rect width="400" height="88" rx="16" fill="#f2f4f6"/>
-  <rect x="18" y="18" width="52" height="52" rx="12" fill="#ffffff"/>
-  <g transform="translate(26 26) scale(1.125)">
-    <circle cx="16" cy="16" r="14" fill="#ffffff"/>
-    <path d="M2 16a14 14 0 0 1 28 0Z" fill="#fce4e8"/>
-    <path d="M2 16h28" stroke="#c63f46" stroke-width="2.4"/>
-    <circle cx="16" cy="16" r="14" fill="none" stroke="#c63f46" stroke-width="2.4"/>
-    <circle cx="16" cy="16" r="4.2" fill="#ffffff" stroke="#c63f46" stroke-width="2.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148" role="img" aria-label="포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중">
+ <title>포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중</title>
+ <defs><clipPath id="card"><rect x="0.5" y="0.5" width="399" height="147" rx="12"/></clipPath></defs>
+ <rect x="0.5" y="0.5" width="399" height="147" rx="12" fill="#fffafb" stroke="#ecdadd"/>
+ <path d="M1 12V136" stroke="#bd435d" stroke-width="5" clip-path="url(#card)"/>
+ <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif">
+  <text x="24" y="25" font-size="9" font-weight="600" letter-spacing="1.7" fill="#bd435d">POKÉMON STRATEGY</text>
+  <rect x="310" y="14" width="67" height="20" rx="10" fill="#eaf5ed"/>
+  <circle cx="322" cy="24" r="2.5" fill="#28784b"/>
+  <text x="330" y="27.5" font-size="10" font-weight="600" fill="#28784b">운영 중</text>
+  <g transform="translate(24 42) scale(.8)">
+   <circle cx="16" cy="16" r="14" fill="#fffafb" stroke="#bd435d" stroke-width="2.4"/>
+   <path d="M2 16a14 14 0 0 1 28 0Z" fill="#f9e8ed"/>
+   <path d="M2 16h28" stroke="#bd435d" stroke-width="2.4"/>
+   <circle cx="16" cy="16" r="4.2" fill="#fffafb" stroke="#bd435d" stroke-width="2.4"/>
   </g>
-  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif">
-    <text x="90" y="39" font-size="18" font-weight="700" fill="#333d4b">포케택트</text>
-    <circle cx="181" cy="33" r="3" fill="#2da44e"/>
-    <text x="190" y="37" font-size="11" fill="#6b7684">운영 중</text>
-    <text x="90" y="61" font-size="13" fill="#6b7684">RAG 기반 포켓몬 전략 챗봇</text>
-  </g>
-  <path d="M370 39h8v8M378 39l-9 9" fill="none" stroke="#6b7684" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="61" y="64" font-size="24" font-weight="750" fill="#372c32">포케택트</text>
+  <text x="24" y="91" font-size="13" fill="#826d77">RAG 기반 포켓몬 전략 챗봇</text>
+  <path d="M24 107H376" stroke="#ecdadd"/>
+  <rect x="24" y="119" width="38" height="18" rx="5" fill="#f9e8ed"/>
+  <text x="43" y="131.5" text-anchor="middle" font-size="9" font-weight="600" fill="#bd435d">RAG</text>
+  <rect x="68" y="119" width="70" height="18" rx="5" fill="#f9e8ed"/>
+  <text x="103" y="131.5" text-anchor="middle" font-size="9" font-weight="600" fill="#bd435d">Pokémon</text>
+  <text x="354" y="132" text-anchor="end" font-size="11" fill="#826d77">chikorita.xyz</text>
+ </g>
+ <path d="M363 128h12m-4-4 4 4-4 4" fill="none" stroke="#bd435d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
