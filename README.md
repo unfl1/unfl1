@@ -3,8 +3,8 @@
 <p align="left">
   <a href="https://www.chikorita.xyz/" title="포케택트 — RAG 기반 포켓몬 전략 챗봇">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unfl1/unfl1/7e9a99f0d5a13abf0d2d81ecee0d5d5220cb54da/assets/ui/project-poketact-dark.svg" />
-      <img src="https://raw.githubusercontent.com/unfl1/unfl1/7e9a99f0d5a13abf0d2d81ecee0d5d5220cb54da/assets/ui/project-poketact-light.svg" alt="포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unfl1/unfl1/71d3e139fde51679c4a21ba822bd96cb0b453941/assets/ui/project-poketact-dark.svg" />
+      <img src="https://raw.githubusercontent.com/unfl1/unfl1/71d3e139fde51679c4a21ba822bd96cb0b453941/assets/ui/project-poketact-light.svg" alt="포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중" width="400" />
     </picture>
   </a>
 </p>
