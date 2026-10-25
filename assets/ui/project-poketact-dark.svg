@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="88" viewBox="0 0 400 88" role="img" aria-label="포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중">
  <title>포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중</title>
- <rect x="0.5" y="0.5" width="399" height="87" rx="10" fill="#211b22" stroke="#49313e"/>
- <path d="M2 12V76" stroke="#f08ba2" stroke-width="3"/>
+ <rect x="0.5" y="0.5" width="399" height="87" rx="10" fill="#202023" stroke="#3f3f46"/>
+ <path d="M2 12V76" stroke="#c4c4cc" stroke-width="3"/>
  <g transform="translate(22 26) scale(1.125)">
-  <circle cx="16" cy="16" r="14" fill="#211b22" stroke="#f08ba2" stroke-width="2.4"/>
-  <path d="M2 16h28" stroke="#f08ba2" stroke-width="2.4"/>
-  <circle cx="16" cy="16" r="4.2" fill="#211b22" stroke="#f08ba2" stroke-width="2.4"/>
+  <circle cx="16" cy="16" r="14" fill="#202023" stroke="#c4c4cc" stroke-width="2.4"/>
+  <path d="M2 16h28" stroke="#c4c4cc" stroke-width="2.4"/>
+  <circle cx="16" cy="16" r="4.2" fill="#202023" stroke="#c4c4cc" stroke-width="2.4"/>
  </g>
  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Apple SD Gothic Neo,Malgun Gothic,sans-serif">
-  <text x="78" y="39" font-size="19" font-weight="700" fill="#f7eaf0">포케택트</text>
+  <text x="78" y="39" font-size="19" font-weight="700" fill="#f4f4f5">포케택트</text>
   <circle cx="168" cy="33" r="2.5" fill="#2da44e"/>
-  <text x="177" y="37" font-size="10" fill="#b9a1ae">운영 중</text>
-  <text x="78" y="61" font-size="13" fill="#b9a1ae">RAG 기반 포켓몬 전략 챗봇</text>
+  <text x="177" y="37" font-size="10" fill="#a1a1aa">운영 중</text>
+  <text x="78" y="61" font-size="13" fill="#a1a1aa">RAG 기반 포켓몬 전략 챗봇</text>
  </g>
- <path d="M361 44h14m-5-5 5 5-5 5" fill="none" stroke="#f08ba2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M361 44h14m-5-5 5 5-5 5" fill="none" stroke="#c4c4cc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
