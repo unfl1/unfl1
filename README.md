@@ -1,6 +1,6 @@
 ## Projects
 
-<p align="center">
+<p align="left">
   <a href="https://www.chikorita.xyz/" title="포케택트 — RAG 기반 포켓몬 전략 챗봇">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-poketact-dark.svg" />
