@@ -1,10 +1,10 @@
 ## Projects
 
 <p align="left">
-  <a href="https://www.chikorita.xyz/" title="포케택트 — RAG 기반 포켓몬 전략 챗봇">
+  <a href="https://www.pokesettle.com/" title="PokeSettle — RAG 기반 포켓몬 전략 챗봇">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unfl1/unfl1/71d3e139fde51679c4a21ba822bd96cb0b453941/assets/ui/project-poketact-dark.svg" />
-      <img src="https://raw.githubusercontent.com/unfl1/unfl1/71d3e139fde51679c4a21ba822bd96cb0b453941/assets/ui/project-poketact-light.svg" alt="포케택트 — RAG 기반 포켓몬 전략 챗봇 · 운영 중" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unfl1/unfl1/main/assets/ui/project-pokesettle-dark.svg" />
+      <img src="https://raw.githubusercontent.com/unfl1/unfl1/main/assets/ui/project-pokesettle-light.svg" alt="PokeSettle — RAG 기반 포켓몬 전략 챗봇" width="400" />
     </picture>
   </a>
 </p>
