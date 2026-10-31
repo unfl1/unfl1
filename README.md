@@ -3,8 +3,8 @@
 <p align="left">
   <a href="https://www.pokesettle.com/" title="PokeSettle — RAG 기반 포켓몬 전략 챗봇">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unfl1/unfl1/main/assets/ui/project-pokesettle-dark.svg" />
-      <img src="https://raw.githubusercontent.com/unfl1/unfl1/main/assets/ui/project-pokesettle-light.svg" alt="PokeSettle — RAG 기반 포켓몬 전략 챗봇" width="400" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unfl1/unfl1/main/assets/ui/project-pokesettle-dark.svg?v=260f27d" />
+      <img src="https://raw.githubusercontent.com/unfl1/unfl1/main/assets/ui/project-pokesettle-light.svg?v=260f27d" alt="PokeSettle — RAG 기반 포켓몬 전략 챗봇" width="400" />
     </picture>
   </a>
 </p>
